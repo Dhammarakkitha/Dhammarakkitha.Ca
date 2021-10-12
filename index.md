@@ -1,4 +1,4 @@
-## Welcome to my webcit
+## Welcome to my websit
 
 You can use the [editor on GitHub](https://github.com/Dhammarakkitha/Dhammachary.ca/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
