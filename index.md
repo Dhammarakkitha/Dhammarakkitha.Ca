@@ -1,8 +1,7 @@
-## Welcome to my websit
-mokada karanne bala bala inne aluth ekak hadapam.
+# Welcome to my websit/සාදරයෙන් පිලිගන්නවා!
+ලැබූ මනුස්ස ජිවිතයෙන් උපරිම ප්‍රේයෝජනයක් ලබාගන්න. සද්ධර්මය ඔබේ ජිවිතයට එකතුකරගන්න. තෙරුවන් සරණි!
 
-
-### Markdown
+Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
