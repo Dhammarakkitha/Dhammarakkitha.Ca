@@ -40,8 +40,8 @@ section image { with:340%;
                
                
                }
-section id image { with:200%;
-               height:150px;
+section id image { max-with:100%;
+               max-height:100%;
                
                 }
 
