@@ -40,6 +40,10 @@ section image { with:340%;
                
                
                }
+section image { with:340%;
+               height:207px;
+               object-fit:scale-down;
+                }
 
 footer {
   background-color: #eee;
