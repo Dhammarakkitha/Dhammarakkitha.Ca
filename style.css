@@ -34,6 +34,12 @@ main {
 section {
   margin-bottom: 2rem;
 }
+section image { with:400%;
+               height:267px;
+               object-fit:fill;
+               
+               
+               }
 
 footer {
   background-color: #eee;
